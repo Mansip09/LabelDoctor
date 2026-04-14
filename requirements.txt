@@ -11,7 +11,7 @@ imutils>=0.5.4
 
 easyocr>=1.7.0
 torch==2.5.1
-torchvision==0.20.1
+torchvision==0.22.1
 
 spacy>=3.7.0
 
